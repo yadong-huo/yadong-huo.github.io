@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Yadong Huo - Homepage"
 author_profile: true
 redirect_from: 
   - /about/
