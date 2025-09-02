@@ -4,9 +4,7 @@ collection: publications
 category: manuscripts
 date: 2023-06
 venue: '34'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10149001'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: '@ARTICLE{10149001,
   author={Huo, Yadong and Qin, Qibing and Dai, Jiangyan and Wang, Lei and Zhang, Wenfeng and Huang, Lei and Wang, Chengduan},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
