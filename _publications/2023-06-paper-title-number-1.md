@@ -3,7 +3,6 @@ title: "Deep Semantic-Aware Proxy Hashing for Multi-Label Cross-Modal Retrieval"
 collection: publications
 category: manuscripts
 date: 2023-06
-venue: '34'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10149001'
 citation: '@ARTICLE{10149001,
   author={Huo, Yadong and Qin, Qibing and Dai, Jiangyan and Wang, Lei and Zhang, Wenfeng and Huang, Lei and Wang, Chengduan},
