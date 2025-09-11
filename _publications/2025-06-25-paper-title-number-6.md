@@ -2,7 +2,7 @@
 title: "Deep semantic center-guided hashing for multi-label cross-modal retrieval"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-25-paper-title-number-4
+permalink: /publication/2025-06-25-paper-title-number-6
 date: 2025-06-25
 venue: 'ESWA'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0957417425023656'
