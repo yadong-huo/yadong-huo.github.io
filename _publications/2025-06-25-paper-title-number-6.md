@@ -1,5 +1,5 @@
 ---
-title: "Deep Semantic Center-guided Hashing for Multi-label Cross-modal Retrieval"
+title: "Deep Semantic Center-Guided Hashing for Multi-label Cross-modal Retrieval"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-25-paper-title-number-6
