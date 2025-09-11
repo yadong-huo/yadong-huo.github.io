@@ -1,5 +1,5 @@
 ---
-title: "Ranking-oriented cross-modal hashing"
+title: "Ranking-oriented Cross-modal Hashing"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-10-paper-title-number-7
