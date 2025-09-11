@@ -2,7 +2,7 @@
 title: "Deep Discriminative Boundary Hashing for Cross-modal Retrieval"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-05-14-paper-title-number-4
+permalink: /publication/2025-05-14-paper-title-number-5
 date: 2025-05-14
 venue: 'TCSVT'
 paperurl: 'https://ieeexplore.ieee.org/document/11003934'
