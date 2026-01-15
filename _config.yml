@@ -22,7 +22,7 @@ repository               : "yadong-huo/yadong-huo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yadong Huo (霍亚东)"
   pronouns         : # example: "she/her"  
   bio              : "PhD, Ocean University of China"
